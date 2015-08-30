@@ -1,0 +1,26 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/nfunnell/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/nfunnell/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/nfunnell/.emacs.d/" (21985 58558 0 0) "init.el~" "init.el" "ido.last~" "ido.last" "games/" "elpa/" "auto-save-list/" ".#init.el" "../" "./")
+
+ ("/Users/nfunnell/" (21985 5259 0 0) "z/" "yes" "VirtualBox VMs/" "twilio21/" "test-repo-one/" "test/" "temp/" "stuff/" "stat.txt" "snip.txt" "secret.txt.gpg" "sandbox/" "results.txt" "Public/" "Projects/" "Pictures/" "PhpstormProjects/" "owl-usage.txt" "owl-duplo/" "owl/" "output-duplo/" "other/" "Music/" "Movies/" "medium-editor/" "loco-restart.log" "Library/" "lib/" "index.html" "include/" "hyhy/" "Google Drive/" "global-gitignore" "git-stuff/" "git-master.sh" "gists/" "exit.pub" "exit" "ebooks/" "dwsms/" "duplo-tools/" "duplo-pages-export-3753_updated.sql" "duplo-pages-export-3753.sql" "duplo-dump.php" "Downloads/" "dotfiles/" "dojo/" "Documents/" "Desktop/" "db-update.sh" "code-coaching/" "clj/" "chef-errors.txt" "calvin-dance.gif" "Box Sync/" "bk/" "bin/" "backup-emacsd/" "b64-opera" "b64-darwin" "Applications/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-0930-nfunnell-5.0.7" ".zcompdump-0930-nfunnell-5.0.5" ".zcompdump-0930-nfunnell (2)-5.0.7" ".z" ".WebIde80/" ".vimrc~" ".vimrc-bak" ".viminfo" ".vim/" ".vagrant.d/" ".twiliorc" ".Trash/" ".subversion/" ".ssh/" ".pythonhist" ".Python" ".psql_history" ".profile.old" ".profile" ".php_history" ".pearrc" ".PATH" ".owlrc~" ".owlrc" ".owl-update" ".oh-my-zsh/" ".npm/" ".mysql_history" ".mal-history" ".m2/" ".local/" ".lesshst" ".lein/" ".ispell_english" ".irssi/" ".ipython/" ".hy-history" ".httpie/" ".htoprc" ".gnupg/" ".gitconfig" ".gem/" ".emacs.d/" ".editorconfig~" ".DS_Store" ".config/" ".composer/" ".chef/" ".CFUserTextEncoding" ".cache/" ".boris_history" ".bash_profile~" ".bash_profile" ".bash_history" ".bash_aliases~" ".bash_aliases" ".aws/" ".atom/" ".account" "#loco-restart.log#" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
