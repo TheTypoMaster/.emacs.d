@@ -112,6 +112,8 @@ point reaches the beginning or end of the buffer, stop there."
 (tool-bar-mode 0)
 (menu-bar-mode 0)
 
+;; anzu 
+(global-anzu-mode 1)
 
 ;; ============== STOP EDITING
 ;; ============== 
