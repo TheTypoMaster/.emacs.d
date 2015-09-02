@@ -103,6 +103,10 @@ point reaches the beginning or end of the buffer, stop there."
 
 (helm-mode 1)
 
+(projectile-global-mode)
+(setq projectile-completion-system 'helm)
+(helm-projectile-on)
+
 ;; ======================
 
 ;; show where file ends
@@ -127,7 +131,8 @@ point reaches the beginning or end of the buffer, stop there."
  '(custom-safe-themes
    (quote
     ("dd4db38519d2ad7eb9e2f30bc03fba61a7af49a185edfd44e020aa5345e3dca7" default)))
- '(inhibit-startup-screen t))
+ '(inhibit-startup-screen t)
+ '(paradox-github-token t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
